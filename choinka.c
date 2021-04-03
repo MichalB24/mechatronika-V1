@@ -63,6 +63,7 @@ printf("\n");
         }
         printf("| |\nWesolych swiat!\n");
 	// przeslane od gita do githuba
+	//kolejne przesłanie
 }
     return 0;
 }
